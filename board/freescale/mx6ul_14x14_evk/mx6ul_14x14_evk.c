@@ -885,7 +885,7 @@ u32 get_board_rev(void)
 
 int checkboard(void)
 {
-	puts("Board: MX6UL 14x14 EVK\n");
+	puts("Board: ESYS-PLUM-V0.01 Board\n");
 
 	return 0;
 }
